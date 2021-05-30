@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826533969938",
+    "project_id": "beathub-7cfa3",
+    "storage_bucket": "beathub-7cfa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826533969938:android:4564844e48f5ef17c598cb",
+        "android_client_info": {
+          "package_name": "com.wesdok.beathub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826533969938-5f08v1jkov5vdd1i0tdd41fnp0tsitg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tVQc6ISKRPu2czf3FvPz-uoXbqbNjc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826533969938-5f08v1jkov5vdd1i0tdd41fnp0tsitg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
